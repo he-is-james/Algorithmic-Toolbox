@@ -17,3 +17,26 @@ UCSD Coursera Class: Data Structures and Algorithms
 - Last Digit of the Sum of Fibonacci Numbers Again
 - Last Digit of the Sum of Squarees of Fibonacci Numbers
 ### Week 3: Greedy Algorithms:
+- Money Change
+- Maximum Value of Loot (Fractional Knapsack)
+- Maximum Advertisement Revenue (Maximum Dot Product)
+- Collecting Signatures (Overlapping Segments)
+- Maximum Number of Prizes (Different Summands)
+- Maximum Salary (Largest Number)
+### Week 4: Divide and Conquer
+- Binary Search
+- Majority Element
+- Improving QuickSort
+- Number of Inversions
+- Organizing a Lottery
+- Closest Points
+### Week 5: Dynamic Programming 1
+- Money Change Again
+- Primitive Calculator
+- Edit Distance
+- Longest Common Subsequence of Two Sequences
+- Longest Common Subsequence of Three Sequences
+### Week 6: Dynamic Programming 2
+- Maximum Amount of Gold
+- Paritioning Souvenirs
+- Maximum Value of an Arithmetic Expression
