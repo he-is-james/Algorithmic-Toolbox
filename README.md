@@ -15,7 +15,7 @@ UCSD Coursera Class: Data Structures and Algorithms
 - Fibonacci Number Again
 - Last Digit of the Sum of Fibonacci Numbers
 - Last Digit of the Sum of Fibonacci Numbers Again
-- Last Digit of the Sum of Squarees of Fibonacci Numbers
+- Last Digit of the Sum of Squares of Fibonacci Numbers
 ### Week 3: Greedy Algorithms:
 - Money Change
 - Maximum Value of Loot (Fractional Knapsack)
